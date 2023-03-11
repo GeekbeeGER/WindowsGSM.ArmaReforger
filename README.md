@@ -6,7 +6,7 @@
 https://store.steampowered.com/app/1874880/Arma_Reforger/
 
 # Important
-You need to Setup you Config by Youself!
+You need to Setup Config by Youself!
 
 # Installation
 1. Download the latest release
